@@ -1,0 +1,8 @@
+file	E:/github_repo/4DSTEM_processing/ptychography/practice/20221116_seminar/4DSTEM_measurement.tif
+method	wdd
+aperture	0.030
+stepsize	0.5
+voltage	80.0
+rotation	0.0
+threshold	0.3
+workers	8
