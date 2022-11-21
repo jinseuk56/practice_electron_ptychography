@@ -1,4 +1,4 @@
-file	E:/github_repo/4DSTEM_processing/ptychography/practice/20221116_seminar/4DSTEM_measurement.tif
+file	4DSTEM_measurement.tif
 method	wdd
 aperture	0.030
 stepsize	0.5
